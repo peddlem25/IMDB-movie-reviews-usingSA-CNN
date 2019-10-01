@@ -2,6 +2,8 @@
 
 #Are "Review Stars" a thing of the past?#
 
-Using IMDB user public written reviews we can see without looking at the rating score, what they thought of the movie. Does this make review stars obsolete?
+#![image](https://github.com/peddlem25/IMDB-movie-reviews-usingSA-CNN/blob/master/bookreviewstars-2.png)#
+
+Using IMDB public user written reviews we can see what they users thought of a movie. Does this make review stars obsolete?
 
 
